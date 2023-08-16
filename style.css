@@ -138,8 +138,14 @@ body{
         height: 100%;
     }
 }
+@media (max-width: 767px) {
+    .content{
+      display: none;
+    }
+  }
 
-.pageheader{
-    align-items: center;
-    
-}
+  @media (max-width: 767px) {
+    .logo{
+      display: none;
+    }
+  }
