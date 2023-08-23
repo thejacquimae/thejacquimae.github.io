@@ -111,6 +111,13 @@ body{
     transition: 0.4s;
 }
 
+.content h3{
+    font-size: 40px;
+    color: #fff;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
 .content h1:hover{
     -webkit-text-stroke: 0.1px #e4e4e4;
     color: transparent;
