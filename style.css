@@ -162,7 +162,10 @@ body{
 }
 @media (max-width: 767px) {
     .content{
-      display: none;
+        font-size: 40px;
+        color: #fff;
+        font-weight: 500;
+        margin-bottom: 20px;
     }
   }
 
@@ -171,3 +174,4 @@ body{
       display: none;
     }
   }
+
